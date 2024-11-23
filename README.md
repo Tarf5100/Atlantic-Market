@@ -55,7 +55,10 @@ cd Atlantic-Market</code></pre>
 
 <h2>Team Members</h2>
 <ul>
-  <li>Tarfah Bin Moammar</li>
-  <li>Dalal Alyousef</li>
- <li>Sadeem albargash </li>
+  <li>Tarfah Bin Moammar | 444200611</li>
+  <li>Sadeem albargash  | 443200679</li>
+  <li>Jana alzhrani | 444200619</li>
+  <li>Salma Alboqami | 444200887</li>
+  <li>Dalal Alyousef | 444203019</li>
 </ul>
+
