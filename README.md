@@ -44,37 +44,18 @@ cd Atlantic-Market</code></pre>
     <li>Open the <code>index.html</code> file in your browser to view the homepage.</li>
 </ol>
 
-<h2>Folder Structure</h2>
-<pre>
-Atlantic-Market/
-│
-├── assets/                # Images and icons used in the project
-├── css/                   # CSS files for styling
-│   ├── styles.css         # Main stylesheet
-│   ├── themes.css         # Styles for themes
-│
-├── js/                    # JavaScript files
-│   ├── main.js            # Core JS functionality
-│   ├── cart.js            # Cart management logic
-│   ├── seller.js          # Seller dashboard logic
-│   ├── reviews.js         # Review submission logic
-│
-├── pages/                 # HTML pages for specific views
-│   ├── index.html         # Homepage
-│   ├── category.html      # Product category pages
-│   ├── cart.html          # User cart page
-│   ├── orders.html        # Orders page
-│   ├── review.html        # Product review page
-│   ├── seller.html        # Seller dashboard
-│
-├── README.md              # Project documentation
-└── LICENSE                # License file
-</pre>
-
 <h2>Key Functionalities</h2>
 <ul>
     <li><strong>Responsive Design:</strong> Adapts seamlessly to various screen sizes.</li>
     <li><strong>Dynamic Interactions:</strong> Validates inputs, manages cart, and updates product lists in real-time.</li>
     <li><strong>Sorting and Filtering:</strong> Sort products by price, name, or rating.</li>
     <li><strong>User-Friendly Navigation:</strong> Intuitive interface for easy browsing and management.</li>
+</ul>
+
+
+<h2>Team Members</h2>
+<ul>
+  <li>Tarfah Bin Moammar</li>
+  <li>Dalal Alyousef</li>
+ <li>Sadeem albargash </li>
 </ul>
